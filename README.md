@@ -1,22 +1,62 @@
-# -Social-Media-Sentiment-Analysis
-# 🔍 Task 2 Completed | Social Media Sentiment Analysis using NLP
- 📍 Data Analytics Internship at Brainwave Matrix Solutions 
+# 🔍 Social Media Sentiment Analysis using NLP
 
-I’m excited to share the second task in my internship journey at Brainwave Matrix, where I worked on analyzing public sentiment from social media using NLP techniques and machine learning. 🚀
+📁 **Task 2 | Data Analytics Internship at Brainwave Matrix Solutions**
 
-📌 Project Goal:
- To extract and analyze sentiment from over 74,000+ tweets related to various topics and brands with Random Forest Classifier to build a model with 92% accuracy
- 
+This project focuses on extracting and analyzing public sentiment from Twitter data using Natural Language Processing (NLP). With over **74,000+ labeled tweets**, the goal was to develop a machine learning model capable of predicting tweet sentiment with high accuracy.
 
-✅ Loaded & explored a labeled Twitter dataset
-✅ Cleaned and preprocessed text (tokenization, stopword removal, etc.)
-✅ Applied VADER sentiment analysis to classify tweets into Positive, Negative, and Neutral
-✅ Visualized sentiment distribution using Seaborn and Matplotlib
-✅ Created a Word Cloud of most used words in tweets
-✅ Used TF-IDF Vectorizer + Random Forest Classifier to build a model with 92% accuracy
+---
 
-📊 Key Insights:
-Positive sentiment slightly dominated the dataset.
-Certain countries and topics had disproportionately high negative feedback.
-("RedDeadRedembtion2","Facebook","Battelfield") was the top3
-Word clouds revealed interesting user behavior and hot topics.
+## 📌 Project Objective
+
+Analyze social media data (Twitter) to:
+
+- Understand public sentiment on various brands and topics.
+- Identify trends and patterns in user feedback.
+- Develop a predictive sentiment classification model using machine learning.
+
+---
+
+## ✅ Tasks Completed
+
+- **Loaded and explored** a large labeled Twitter dataset.
+- **Text preprocessing** including:
+  - Lowercasing
+  - Tokenization
+  - Stopword removal
+  - Punctuation removal
+- **Sentiment Classification** using:
+  - VADER (Valence Aware Dictionary and sEntiment Reasoner)
+  - Categories: `Positive`, `Negative`, `Neutral`
+- **Visualization** using:
+  - Seaborn & Matplotlib (sentiment distribution)
+  - WordCloud (most frequent words)
+- **Model building** with:
+  - TF-IDF Vectorization
+  - Random Forest Classifier
+  - Achieved **92% accuracy**
+
+---
+
+## 📊 Key Insights
+
+- **Positive sentiment** slightly dominated the dataset overall.
+- Certain **countries and topics** showed spikes in **negative sentiment**, notably:
+  - `RedDeadRedemption2`
+  - `Facebook`
+  - `Battlefield`
+- WordClouds revealed trending keywords and user behavior.
+- Model performed well in detecting sentiment in unseen tweets, demonstrating strong generalizability.
+
+---
+
+## 🧠 Technologies Used
+
+- Python
+- NLTK
+- VADER Sentiment Analyzer
+- Scikit-learn
+- Pandas & NumPy
+- Seaborn & Matplotlib
+- WordCloud
+
+---
