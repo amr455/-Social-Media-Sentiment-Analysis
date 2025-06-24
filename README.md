@@ -60,3 +60,14 @@ Analyze social media data (Twitter) to:
 - WordCloud
 
 ---
+# 📁 Dataset
+The dataset consists of over 74,000 labeled tweets with sentiment tags. It includes tweet content, user metadata, and label annotations for supervised learning.
+
+# 🤝 Acknowledgments
+This project was completed as part of my Data Analytics Internship at Brainwave Matrix Solutions. Special thanks to the Brainwave team for their mentorship and guidance.
+
+# 📫 Contact
+
+LinkedIn: www.linkedin.com/in/umro-rabie-3721a021b
+
+Email: amrdaana21@gmail.com
