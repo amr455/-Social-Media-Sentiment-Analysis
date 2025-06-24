@@ -4,6 +4,8 @@
 
 This project focuses on extracting and analyzing public sentiment from Twitter data using Natural Language Processing (NLP). With over **74,000+ labeled tweets**, the goal was to develop a machine learning model capable of predicting tweet sentiment with high accuracy.
 
+ ![image](https://github.com/user-attachments/assets/f88b6f27-9773-4bbc-b621-143181ac36cc)
+
 ---
 
 ## 📌 Project Objective
@@ -71,3 +73,4 @@ This project was completed as part of my Data Analytics Internship at Brainwave 
 LinkedIn: www.linkedin.com/in/umro-rabie-3721a021b
 
 Email: amrdaana21@gmail.com
+
