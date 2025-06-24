@@ -16,6 +16,8 @@ Analyze social media data (Twitter) to:
 - Identify trends and patterns in user feedback.
 - Develop a predictive sentiment classification model using machine learning.
 
+![image](https://github.com/user-attachments/assets/f572df55-7744-4da3-b823-412d8667b0ee)
+
 ---
 
 ## ✅ Tasks Completed
@@ -37,6 +39,8 @@ Analyze social media data (Twitter) to:
   - Random Forest Classifier
   - Achieved **92% accuracy**
 
+![image](https://github.com/user-attachments/assets/26d6734f-3c37-47c9-8613-9ed800c15ae2)
+
 ---
 
 ## 📊 Key Insights
@@ -48,6 +52,7 @@ Analyze social media data (Twitter) to:
   - `Battlefield`
 - WordClouds revealed trending keywords and user behavior.
 - Model performed well in detecting sentiment in unseen tweets, demonstrating strong generalizability.
+![image](https://github.com/user-attachments/assets/89a6a705-4690-46a1-bd05-88813c20900a)
 
 ---
 
